@@ -5,4 +5,4 @@ Allow: /
 # Disallow: /admin/
 # Disallow: /_data/
 
-Sitemap: https://c-kapsalis.github.io/portfolio-website/sitemap.xml
+Sitemap: https://c-kapsalis.github.io/ms-data-science-projects/sitemap.xml
